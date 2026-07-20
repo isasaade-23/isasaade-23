@@ -7,6 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isabela-venancio-67530a260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0000-0003-0156-7837"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="http://lattes.cnpq.br/7006765766090773"><img src="https://img.shields.io/badge/Lattes-CV-0170BB?style=flat" alt="Curr%C3%ADculo Lattes"></a>
   <a href="mailto:isasaade23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/S%C3%A3o_Paulo-Brazil-2ea44f?style=flat" alt="São Paulo">
 </p>
