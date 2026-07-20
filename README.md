@@ -61,12 +61,6 @@ português, fluxo assistencial no SUS e coortes longitudinais.
   <img src="https://img.shields.io/badge/Docker-3D5A80?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-## GitHub activity
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=isasaade-23&bg_color=F6F2EE&color=1F3050&line=EE6C4D&point=3D5A80&area=true&area_color=E3EBF3&hide_border=true&title_color=1F3050" alt="activity graph"/>
-</p>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:6B87AD,45:3D5A80,100:1F3050" alt="footer"/>
 </div>
